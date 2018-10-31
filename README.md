@@ -7,5 +7,7 @@ test_part3 is the the test file of part 3 which you can compare your answer with
 
 to run the test
 
+You should copy your part 2 and part 3 code into the corresponding files
+
 python3 test_envelops_part2.py
 python3 test_part3.py
